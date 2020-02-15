@@ -156,5 +156,15 @@ Chris Mallow presented on Security Operations
 
 This event was hacker trivia
 
+### Chapter Meeting - January
+
+**When:** Jauary 31st, 2020
+
+**Where:** Rack 59 Data Center
+
+**Sponsor:** Crossroads Information Security
+
+**Guest Speaker:** Bekah Mercer to presented about CTRL+SHIFT Code School
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")
