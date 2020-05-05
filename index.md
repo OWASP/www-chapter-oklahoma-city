@@ -28,6 +28,7 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
+Welcome to the Oklahoma City OWASP Chapter
 ## Welcome
 Include some information here about your chapter
 
@@ -39,6 +40,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
+Meetings are currently taking place virtually.
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
