@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Oklahoma City
-tags: example-tag
+tags: 
 level: 0
 
 region: United States
