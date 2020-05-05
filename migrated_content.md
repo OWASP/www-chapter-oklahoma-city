@@ -15,7 +15,6 @@ region: United States
 
 [Facebook](https://www.facebook.com/OWASP-Oklahoma-City-205772803482139)
 
-\[<https://www.youtube.com/channel/UCQFrnYnbwgPEdODJo1AfT9A>? YouTube\]
 
 [MeetUp](https://www.meetup.com/Oklahoma-City-Chapter-Meetup/)
 
