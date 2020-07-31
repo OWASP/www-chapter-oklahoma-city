@@ -8,6 +8,9 @@ level: 0
 region: United States
 
 auto-migrated: 0
+meetup-group: Oklahoma-City-Chapter-Meetup
+country: USA
+postal-code: 73101
 
 ---
 # Connect With Us
