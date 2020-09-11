@@ -169,6 +169,27 @@ This event was hacker trivia
 
 **Guest Speaker:** Bekah Mercer to presented about CTRL+SHIFT Code School
 
+### Chapter Meeting - May
+
+**When:** May 1st, 2020
+
+**Where:** Virtual
+
+**Sponsor:** Secure Code Warrior
+
+**Guest Speaker:** This was an online CTF for identifying vulnerabilites in web applications.
+
+
+### Chapter Meeting - August
+
+**When:** August 27, 2020
+
+**Where:** Virtual
+
+**Sponsor:** CMD+CTRL
+
+**Guest Speaker:** This was an online CTF for pen testing web applications.
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")
 
