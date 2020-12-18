@@ -5,7 +5,7 @@ title: OWASP Oklahoma City
 tags: 
 level: 0
 
-region: United States
+region: North America
 
 auto-migrated: 0
 meetup-group: Oklahoma-City-Chapter-Meetup
