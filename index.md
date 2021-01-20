@@ -191,9 +191,13 @@ This event was hacker trivia
 **Guest Speaker:** This was an online CTF for pen testing web applications.
 
 ## Chapter Meeting - January
+
 **When:** January 29, 2021
+
 **Where** Virtual
+
 **Sponsor** 1 to 1 Risk Control and Investigations - [Digital Forensics in Oklahoma City](https://www.1to1riskcontrol.com)
+
 **Guest Speakers** Joe Sullivan and Skyler Tuter
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
