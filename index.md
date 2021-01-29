@@ -195,6 +195,7 @@ This event was hacker trivia
 **When:** January 29, 2021
 
 **Where** Virtual
+**Slides and Videos** [Slides and Video Downloads](https://drive.google.com/drive/folders/1Mp5Xqeonkl-zOsbd6B1efp5Xwan3u3JA?usp=sharing)
 
 **Sponsor** 1 to 1 Risk Control and Investigations - [Digital Forensics in Oklahoma City](https://www.1to1riskcontrol.com)
 
