@@ -202,5 +202,13 @@ This event was hacker trivia
 
 **Guest Speakers** Joe Sullivan and Skyler Tuter
 
+## Chapter Meeting - March
+
+**When:** March 29, 2021
+
+**Where** Virtual
+
+**Details** This was an online social event to discuss web application and information security topics.
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")
