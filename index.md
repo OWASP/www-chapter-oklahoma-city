@@ -22,7 +22,7 @@ postal-code: 73101
 
 [MeetUp](https://www.meetup.com/Oklahoma-City-Chapter-Meetup/)
 
-:{% include chapter_events.html group=page.meetup-group %}
+{% include chapter_events.html group=page.meetup-group %}
 
 # Supporters
 
