@@ -22,7 +22,9 @@ postal-code: 73101
 
 [MeetUp](https://www.meetup.com/Oklahoma-City-Chapter-Meetup/)
 
-# Sponsors
+:{% include chapter_events.html group=page.meetup-group %}
+
+# Supporters
 
 [Crossroads Information Security](https://www.crossroadsinfosec.com)
 
@@ -208,7 +210,4 @@ This event was hacker trivia
 
 **Where** Virtual
 
-**Details** This was an online social event to discuss web application and information security topics.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
