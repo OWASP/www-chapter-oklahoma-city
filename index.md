@@ -48,4 +48,13 @@ postal-code: 73101
 
 **Where** Virtual
 
+## Chapter Meeting - September
+
+**When:** September 3, 2021
+
+**Where** Virtual
+
+**Guest Speakers** Stacy Dunn
+
+**Topic** Securing Your Software Development Life Cycle
 
