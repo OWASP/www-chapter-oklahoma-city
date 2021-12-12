@@ -58,3 +58,17 @@ postal-code: 73101
 
 **Topic** Securing Your Software Development Life Cycle
 
+## Chapter Meeting - March
+
+**When:** March 29, 2021
+
+**Where** Virtual
+
+## Chapter Meeting - November
+
+**When:** November 30, 2021
+
+**Where** Virtual
+
+**Topic** Oklahoma City OWASP Social Meeting
+
