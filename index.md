@@ -74,7 +74,7 @@ postal-code: 73101
 
 **Topic** Brian Reed Presents on the OWASP MASVS
 
-**Slides** [Slides](https://drive.google.com/file/d/1iuhvPzANhYkUcNahLnqzHw1jH_TXCUN4/view?usp=sharing)
+**Slides** [Slides(PDF)](https://drive.google.com/file/d/1iuhvPzANhYkUcNahLnqzHw1jH_TXCUN4/view?usp=sharing)
 
-**Video** [Video](https://drive.google.com/file/d/1v3e64yytURD_vLoXiZodV0j6YtrkX9F1/view?usp=sharing)
+**Video** [Video(mp4)](https://drive.google.com/file/d/1v3e64yytURD_vLoXiZodV0j6YtrkX9F1/view?usp=sharing)
 
