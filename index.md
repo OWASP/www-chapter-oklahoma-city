@@ -66,3 +66,13 @@ postal-code: 73101
 
 **Topic** Oklahoma City OWASP Social Meeting
 
+## Chapter Meeting - December
+
+**When:** DEcember 15, 2021
+
+**Where** Virtual
+
+**Topic** Brian Reed Presents on the OWASP MASVS
+**Slides** [Slides](https://drive.google.com/file/d/1iuhvPzANhYkUcNahLnqzHw1jH_TXCUN4/view?usp=sharing)
+**Video** [Video](https://drive.google.com/file/d/1v3e64yytURD_vLoXiZodV0j6YtrkX9F1/view?usp=sharing)
+
