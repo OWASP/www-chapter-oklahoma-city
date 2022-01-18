@@ -30,51 +30,16 @@ postal-code: 73101
 
 ## Past Meetings
 
-## Chapter Meeting - January
-
-**When:** January 29, 2021
-
-**Where** Virtual
-
-**Slides and Videos** [Slides and Video Downloads](https://drive.google.com/drive/folders/1Mp5Xqeonkl-zOsbd6B1efp5Xwan3u3JA?usp=sharing)
-
-**Sponsor** 1 to 1 Risk Control and Investigations - [Digital Forensics in Oklahoma City](https://www.1to1riskcontrol.com)
-
-**Guest Speakers** Joe Sullivan and Skyler Tuter
-
-## Chapter Meeting - March
-
-**When:** March 29, 2021
-
-**Where** Virtual
-
-## Chapter Meeting - September
-
-**When:** September 3, 2021
-
-**Where** Virtual
-
-**Guest Speakers** Stacy Dunn
-
-**Topic** Securing Your Software Development Life Cycle
-
-## Chapter Meeting - November
-
-**When:** November 30, 2021
-
-**Where** Virtual
-
 **Topic** Oklahoma City OWASP Social Meeting
 
-## Chapter Meeting - December
+## Chapter Meeting - January
 
-**When:** December 15, 2021
+**When:** January 13, 2022
 
 **Where** Virtual
 
-**Topic** Brian Reed Presents on the OWASP MASVS
+**Topic** Dr Baljeet Malhotra presented on API Security
 
-**Slide PDF** [Slides](https://drive.google.com/file/d/1iuhvPzANhYkUcNahLnqzHw1jH_TXCUN4/view?usp=sharing)
+**Video - MP4** [Video](https://drive.google.com/file/d/1bnICucz-6ICfMDx8kXfyHY-k3KrL6LHL/view?usp=sharing)
 
-**Video - MP4** [Video](https://drive.google.com/file/d/1v3e64yytURD_vLoXiZodV0j6YtrkX9F1/view?usp=sharing)
 
